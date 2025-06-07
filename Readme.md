@@ -198,4 +198,4 @@ To add a new hash algorithm (e.g., SHA3):
 
 ## Security Note
 
-MD5 and SHA-1 are cryptographically broken and should not be used in production systems for security-critical applications. Hashbrown is intended for educational purposes, CTFs, or legacy system analysis. See [RFC6151](https://tools
+MD5 and SHA-1 are cryptographically broken and should not be used in production systems for security-critical applications. Hashbrown is intended for educational purposes, CTFs, or legacy system analysis.
