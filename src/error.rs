@@ -19,6 +19,7 @@ pub enum HashbrownError {
     #[error("[x] Failed to crack hash with provided wordlist")]
     CrackFailure,
 
+    #[allow(dead_code)]
     #[error("[x] Unsupported hash algorithm: {0}")]
     UnsupportedAlgorithm(String),
 }

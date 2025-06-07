@@ -1,6 +1,5 @@
 use log::{error, info};
 use rayon::prelude::*;
-use std::collections::HashMap;
 
 use crate::{
     cli::Cli,

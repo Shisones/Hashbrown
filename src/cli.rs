@@ -1,4 +1,4 @@
-use clap::{Parser, ValueEnum};
+use clap::{Parser};
 use crate::hash::HashAlgorithmType;
 
 #[derive(Parser, Debug)]
